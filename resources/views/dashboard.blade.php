@@ -153,6 +153,12 @@
 
         <!-- TABLE -->
         <div class="w-full h-80 mt-7 mb-3 px-3">
+          <p class="font-semibold text-lg pt-3">
+            Recent Sales
+          </p>
+          <p class="text-sm text-gray-400 pb-3">
+            Most recent sales in the store
+          </p>
           <table class="w-full h-72">
             <tr class="grid grid-cols-9 justify-items-start">
               <th class="col-span-2 font-normal text-gray-500">
