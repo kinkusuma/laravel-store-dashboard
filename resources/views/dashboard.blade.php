@@ -12,17 +12,6 @@
 <body>
   <div class='w-screen h-screen p-5 bg-zinc-50'>
 
-    <!-- RULER -->
-    <!-- <div class="w-full grid grid-cols-7 gap-2">
-      <div class="w-full h-8 bg-zinc-500"></div>
-      <div class="w-full h-8 bg-zinc-500"></div>
-      <div class="w-full h-8 bg-zinc-500"></div>
-      <div class="w-full h-8 bg-zinc-500"></div>
-      <div class="w-full h-8 bg-zinc-500"></div>
-      <div class="w-full h-8 bg-zinc-500"></div>
-      <div class="w-full h-8 bg-zinc-500"></div>
-    </div> -->
-
     <!-- HEADER  -->
     <div class='w-full grid grid-cols-7 gap-2'>
 
